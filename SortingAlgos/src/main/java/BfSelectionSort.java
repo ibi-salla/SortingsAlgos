@@ -1,5 +1,5 @@
 public class BfSelectionSort {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int[] arr = {260,8,800,56};
 
